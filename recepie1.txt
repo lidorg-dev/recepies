@@ -5,5 +5,6 @@ Lasagnia
 3*Tomato
 1* garlic
 1*spices
-1*sugar
+1*chilli
+
 
